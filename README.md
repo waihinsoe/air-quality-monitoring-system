@@ -74,3 +74,8 @@ To build a scalable and efficient real-time environmental monitoring system usin
 3. Data sent to frontend via server
 4. Alert sent via GSM if required
 5. Data displayed in real-time on dashboard
+
+## 🎥 Project Demo Video
+
+Watch the live demonstration of the system in action:  
+👉 [Project Video on Google Drive](https://drive.google.com/file/d/1vEF0HOppr_e6Yx1RTJ4Oj-cJ2etUTJsd/view?usp=sharing)

@@ -6,10 +6,10 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define API_KEY "AIzaSyDlyMzwQN36mqMs-16lY6sHggV1D3XBBiw"
-#define USER_EMAIL "yuzinmontutgo@gmail.com"
-#define USER_PASSWORD "yewaitun11621"
-#define DATABASE_URL "https://air-quality-monitoring-s-abfc6-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define API_KEY ""
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
+#define DATABASE_URL ""
 
 // Firebase objects for managing data and authentication
 FirebaseData fbdo;

@@ -73,7 +73,7 @@ To build a scalable and efficient real-time environmental monitoring system usin
 2. Threshold Evaluation
 3. Data sent to frontend via server
 4. Alert sent via GSM if required
-5. Data displayed in real-time on dashboard
+5. Data displayed in real-time on dashboard 
 
 ## 🎥 Project Demo Video
 
